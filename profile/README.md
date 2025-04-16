@@ -52,6 +52,21 @@ Stella Developers is a vibrant community of passionate developers dedicated to c
 
 We're always looking for passionate developers to join our community! Here's how you can get involved:
 
+### Making Your Organization Membership Public
+To maximize your engagement with our community, we recommend making your organization membership public:
+
+1. Go to [Stella Developers People page](https://github.com/orgs/Stella-developers/people)
+2. Find your name in the members list
+3. Click the three dots (⋮) next to your name
+4. Click "Manage"
+5. Change your membership from "Private" to "Public"
+
+Benefits of public membership:
+- Increased visibility within the community
+- Better networking opportunities
+- Recognition for your contributions
+- Enhanced collaboration with other members
+
 1. **Join Our Community**
    - [Telegram Group](https://t.me/DevCollab)
    - [Discord Server](https://discord.gg/stella-dev)
