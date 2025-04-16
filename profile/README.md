@@ -69,17 +69,15 @@ Benefits of public membership:
 
 1. **Join Our Community**
    - [Telegram Group](https://t.me/DevCollab)
-   - [Discord Server](https://discord.gg/stella-dev)
-   - [Twitter](https://twitter.com/stella_devs)
+   - [Discord Server](https://discord.gg/huYgwCPeeP)
 
 2. **Contribute to Projects**
    - Check out our [Projects](https://github.com/stella-developers/projects)
    - Follow our [Contribution Guidelines](CONTRIBUTING.md)
-   - Join our [Hackathons](https://github.com/stella-developers/hackathons)
 
 3. **Stay Updated**
    - Subscribe to our [Newsletter](https://stella-dev.substack.com)
-   - Follow our [Blog](https://blog.stella-dev.org)
+   - Follow our [Blog](https://stellaray777.medium.com/)
    - Join our [Meetups](https://meetup.com/stella-developers)
 
 ## 📫 Contact Us
