@@ -1,64 +1,97 @@
-# Contributing to Stella Developers
+# Contributing to GTA RP TEAM
 
-Thank you for your interest in contributing to Stella Developers! We welcome contributions from everyone, regardless of experience level. This document provides guidelines and instructions for contributing to our projects.
+Thank you for your interest in contributing to GTA RP TEAM! We welcome contributions from everyone in the community. This document provides guidelines and steps for contributing to our projects.
 
-## 🤝 Code of Conduct
+## Table of Contents
+- [Code of Conduct](#code-of-conduct)
+- [How to Contribute](#how-to-contribute)
+- [Development Process](#development-process)
+- [Pull Request Process](#pull-request-process)
+- [Style Guidelines](#style-guidelines)
+- [Community Guidelines](#community-guidelines)
+
+## Code of Conduct
 
 By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). Please read it before contributing.
 
-## 🚀 How to Contribute
+## How to Contribute
 
-### 1. Finding Issues to Work On
+### Reporting Issues
+- Use our issue tracker to report bugs or suggest features
+- Check if the issue has already been reported
+- Provide detailed information about the issue
+- Include steps to reproduce the issue
+- Add screenshots or videos if relevant
 
-- Check our [Projects](https://github.com/stella-developers/projects) for ongoing initiatives
-- Look for issues labeled `good first issue` if you're new to open source
-- Join our [Discord](https://discord.gg/stella-dev) to discuss potential contributions
-
-### 2. Making Changes
-
-1. **Fork** the repository
-2. Create a new branch for your feature/fix:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
+### Making Changes
+1. Fork the repository
+2. Create a new branch for your feature/fix
 3. Make your changes
-4. Commit your changes with a descriptive message:
-   ```bash
-   git commit -m "Description of your changes"
-   ```
-5. Push to your fork:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-6. Open a Pull Request
+4. Test your changes thoroughly
+5. Submit a pull request
 
-### 3. Pull Request Process
+## Development Process
 
-1. Ensure your PR description clearly describes the problem and solution
-2. Include relevant issue numbers in your PR description
-3. Update the README.md if necessary
-4. Wait for review and address any feedback
+### For GTA RP Server Development
+- Follow our server architecture guidelines
+- Document all new features and changes
+- Test changes in a development environment
+- Ensure compatibility with existing mods
+- Follow performance optimization guidelines
 
-## 📝 Development Guidelines
+### For Script Development
+- Use consistent coding standards
+- Comment your code thoroughly
+- Include error handling
+- Test for edge cases
+- Document API changes
+
+## Pull Request Process
+
+1. Update the README.md with details of changes if needed
+2. Update the documentation if necessary
+3. The PR must pass all automated tests
+4. You may merge the PR once you have the sign-off of at least one other developer
+
+## Style Guidelines
 
 ### Code Style
-
-- Follow the existing code style in the project
-- Use meaningful variable and function names
-- Add comments where necessary
+- Follow the existing code style
+- Use meaningful variable names
 - Keep functions focused and small
+- Add comments for complex logic
+- Follow the language-specific style guides
 
 ### Documentation
+- Keep documentation up to date
+- Use clear and concise language
+- Include examples where helpful
+- Document all public APIs
+- Update changelog for significant changes
 
-- Update documentation for any new features
-- Add comments for complex logic
-- Keep README.md up to date
+## Community Guidelines
 
-### Testing
+### Communication
+- Be respectful and professional
+- Use appropriate channels for different types of communication
+- Keep discussions focused and constructive
+- Help others when possible
 
-- Write tests for new features
-- Ensure all tests pass before submitting PR
-- Update tests when fixing bugs
+### Collaboration
+- Work together to solve problems
+- Share knowledge and resources
+- Give credit where due
+- Be open to feedback
+
+## Getting Help
+
+If you need help or have questions:
+- Check our documentation
+- Join our [Discord server](https://discord.gg/gta-rp-team)
+- Open an issue in the relevant repository
+- Contact the maintainers
+
+Thank you for contributing to GTA RP TEAM!
 
 ## 🎯 Project Structure
 
